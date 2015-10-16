@@ -3,7 +3,7 @@ A fast, dynamic programming algorithm for calculating Fibonacci numbers, running
 
 Usage: ./fb_fast <number>
 
-Example: ./fb_fast 10
+Example: `./fb_fast 10`
 
 `0
 1

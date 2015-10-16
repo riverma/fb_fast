@@ -4,7 +4,8 @@ A fast, dynamic programming algorithm for calculating Fibonacci numbers, running
 Usage: ./fb_fast <number>
 
 Example: ./fb_fast 10
-0
+
+`0
 1
 1
 2
@@ -14,4 +15,4 @@ Example: ./fb_fast 10
 13
 21
 34
-55
+55`
